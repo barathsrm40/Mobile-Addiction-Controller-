@@ -8,7 +8,7 @@ This project focuses on converting spoken language into written text using Artif
 ---
 
 ## Objectives
-- To develop an automated system that converts speech into text accurately  
+- To develop an automated system that converts speech into txt accurately  
 - To reduce manual typing effort using voice-based input  
 - To support real-time speech recognition  
 - To improve accessibility for users with physical disabilities  
